@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.fps || 'Any' }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">CBF/CBS</div>
+                            <div class="type-title-sm">CBF</div>
                             <p>{{ level.fps || 'Allowed' }}</p>
                         </li>         
                     </ul>
