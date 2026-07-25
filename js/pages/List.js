@@ -51,12 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">FPS</div>
-                            <p>{{ level.fps || 'Any' }}</p>
-                        </li>
-                        <li>
                             <div class="type-title-sm">CBF</div>
-                            <p>{{ level.fps || 'Allowed' }}</p>
+                            <p>{{ level.cbf || 'Allowed' }}</p>
                         </li>         
                     </ul>
                     <h2>Records</h2>
