@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/PASbAdGicjk",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Something",
+            "link": "https://discord.com/channels/1530138779040485458/1531050544083243219/1531050544083243219",
+            "hz": "CBS",
+            "percent": 100
+        } 
     ]
 }
