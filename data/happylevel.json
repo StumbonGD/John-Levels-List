@@ -7,6 +7,13 @@
     "verification": "youtube.com/watch?v=NkCASkY4Vbo&feature=youtu.be",
     "percentToQualify": "100",
     "records": [
+        },
+        {
+            "user": "stumbongd",
+            "link": "https://youtu.be/EyOeQscIhJE",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
  
