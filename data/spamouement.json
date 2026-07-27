@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "alternating": "Recommended",
     "records": [
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/OWsZ0uiMvo4",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
