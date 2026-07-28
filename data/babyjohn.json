@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "alternating": "Allowed",
     "records": [
+        {
+            "user": "EpixsGD",
+            "link": "https://discord.com/channels/1530138779040485458/1531575252285653012/1531575252285653012",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
