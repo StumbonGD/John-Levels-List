@@ -9,5 +9,11 @@
     "fps": "Any",
     "alternating": "2P",
     "records": [
+        {
+            "user": "Something",
+            "link": "https://discord.com/channels/1530138779040485458/1531579981354897438/1531579981354897438",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
