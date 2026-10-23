@@ -60,8 +60,8 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 200"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
@@ -104,7 +104,7 @@ export default {
                     </template>
                     <h3>Completion Requirements</h3>
                     <p>
-                        FPS Bypass is only allowed if the FPS is 60+, this does not apply to levels with a specific FPS. Physics Bypass is completely banned. 
+                        FPS Bypass is only allowed, this does not apply to levels with a specific FPS. Physics Bypass is completely banned. 
                     </p>
                     <p>
                         Your completion or submission must have input viewer, a handcam, or best of all audible clicks. You must include the endscreen.
