@@ -5,6 +5,11 @@
         "link": "https://www.youtube.com/@stumbongd"
     },
     {
+        "role": "admin",
+        "name": "PengusP",
+        "link": "https://www.youtube.com/@PengusGD",
+    },    
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
