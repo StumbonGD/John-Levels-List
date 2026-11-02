@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/V5ZnQfvHTnY",
     "percentToQualify": "100",
     "fps": "Any",
-    "alternating": "Unnecessary",
+    "alternating": "Allowed",
     "records": [
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/Pttj5ZItIfc",
+            "hz": "CBS",
+            "percent": 100
+        }
     ]
 }
