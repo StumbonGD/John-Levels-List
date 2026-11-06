@@ -9,5 +9,11 @@
     "fps": "Any",
     "alternating": "No",
     "records": [
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/eBx00pj67MI",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
