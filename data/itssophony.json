@@ -9,5 +9,11 @@
     "fps": "CBF/CBS Only",
     "alternating": "Allowed for no reason",
     "records": [
+        {
+            "user": "Jombos",
+            "link": "https://youtu.be/Qd97BY5SsyU?t=6583",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
