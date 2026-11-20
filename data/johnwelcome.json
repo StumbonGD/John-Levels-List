@@ -1,12 +1,12 @@
 {
-    "id": 145697702,
+    "id": 152696922,
     "name": "Welcome To John",
     "author": "Pengus",
     "creators": ["Pengus"],
     "verifier": "PengusP",
     "verification": "https://youtu.be/PASbAdGicjk",
     "percentToQualify": 100,
-    "alternating": "Unnecessary",
+    "alternating": "Allowed",
     "records": [
         {
             "user": "Something",
