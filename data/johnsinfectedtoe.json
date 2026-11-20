@@ -9,5 +9,11 @@
     "fps": "ANY",
     "alternating": "2P",
     "records": [
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/AWkE68mEyCk?si=oCtQrdGH-z9_vIQI",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
