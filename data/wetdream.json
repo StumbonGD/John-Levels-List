@@ -8,6 +8,7 @@
     "percentToQualify": "100",
     "fps": "60",
     "alternating": "No",
+    "cbf": "Unnecessary",
     "records": [
         {
             "user": "habibkitty",
