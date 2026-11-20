@@ -58,6 +58,10 @@ export default {
                             <div class="type-title-sm">Alternating</div>
                             <p>{{ level.alternating || 'Allowed' }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">CBF</div>
+                            <p>{{ level.cbf || 'Allowed' }}</p>
+                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
@@ -110,9 +114,6 @@ export default {
                     </p>
                     <p>
                         Do not use secret routes.
-                    </p>
-                    <p>
-                        You can use CBF/CBS for any level, however some levels that are FPS Locked (like "Johns Wet Dream") will be harder with CBF/CBS.
                     </p>
                 </div>
             </div>
