@@ -7,8 +7,14 @@
     "verification": "https://youtu.be/zHs90NXr--g?si=iKXCp6BIeE_Noax7",
     "percentToQualify": "100",
     "fps": "60",
-    "alternating": "Unnecessary",
+    "alternating": "No",
     "cbf": "Unnecessary",
     "records": [
+        {
+            "user": "KOTDH",
+            "link": "https://www.youtube.com/watch?v=M3mCgEUQA_s",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
