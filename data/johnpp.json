@@ -9,5 +9,11 @@
     "fps": "Any",
     "alternating": "Recommended",
     "records": [
+        {
+            "user": "KOTDH",
+            "link": "https://www.youtube.com/watch?v=M3mCgEUQA_s",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
