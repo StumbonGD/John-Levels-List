@@ -1,0 +1,14 @@
+{
+    "id": 152801808,
+    "name": "John Teaches Maths",
+    "author": "StumbonGD",
+    "creators": ["StumbonGD"],
+    "verifier": "StumbonGD",
+    "verification": "https://youtu.be/soUxEC1M5LE",
+    "percentToQualify": "100",
+    "fps": "Any",
+    "alternating": "Allowed",
+    "cbf": "Allowed",
+    "records": [
+    ]
+}
