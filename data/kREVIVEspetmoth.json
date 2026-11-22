@@ -8,7 +8,13 @@
     "percentToQualify": "100",
     "fps": "Any",
     "alternating": "Unnecessary",
-    "cbf": "No",
+    "cbf": "Yes",
     "records": [
+        {
+            "user": "KOTDH",
+            "link": "https://youtu.be/M3mCgEUQA_s?si=ftx61wfnQ59-IIK-",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
