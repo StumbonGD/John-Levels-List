@@ -10,5 +10,11 @@
     "alternating": "Unnecessary",
     "cbf": "Allowed",
     "records": [
+        {
+            "user": "john sou",
+            "link": "https://medal.tv/games/geometry-dash/clips/nYXdnz3Bi4XT3nwRG?invite=cr-MSxtcnosNDU0MjU3NzY4",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
