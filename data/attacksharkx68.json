@@ -10,5 +10,11 @@
     "alternating": "Unnecessary",
     "cbf": "Allowed",
     "records": [
+        {
+            "user": "EpixsGD",
+            "link": "https://discord.com/channels/1563139283726893109/1574836831986651226/1574836831986651226",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
