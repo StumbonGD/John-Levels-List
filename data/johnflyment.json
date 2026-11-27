@@ -9,6 +9,12 @@
     "fps": "Any",
     "alternating": "No",
     "cbf": "Allowed",
-    "records": [
+    "records": [ 
+        {
+            "user": "habibkitty",
+            "link": "https://www.youtube.com/watch?v=vCsTaFOeIWg",
+            "hz": "CBS",
+            "percent": 100
+        }
     ]
 }
